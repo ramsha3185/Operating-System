@@ -1,38 +1,27 @@
-Operating System Lab Work
+# Operating Systems Lab Work
 
-This repository contains my Operating System (OS) laboratory assignments completed as part of my BSIT program. It includes practical implementations of core operating system concepts learned during the course.
+This repository contains the laboratory work I completed for the Operating Systems course in my BSIT program at the University of the Punjab. The labs were about turning the theory from class into working programs.
 
-Overview
+## Overview
 
-The purpose of this repository is to demonstrate understanding and hands-on implementation of fundamental Operating System concepts. Each lab task focuses on strengthening theoretical knowledge through practical coding exercises.
+Each lab focused on one core idea from the course and asked me to implement it in code. Writing these programs myself helped me understand how an operating system manages processes, memory and files behind the scenes.
 
-Topics Covered
-
-The repository includes work related to the following areas:
+## Topics covered
 
 - Process management and process creation
-- CPU scheduling algorithms (FCFS, SJF, Round Robin, etc.)
+- CPU scheduling algorithms such as FCFS, SJF and Round Robin
 - Memory management techniques
 - Deadlock detection and prevention
 - File system operations
-- System-level programming concepts
+- System level programming concepts
 
-Tools and Technologies
+## Tools and technologies
 
-- Programming Language: C / C++
-- Compiler: GCC / Code::Blocks / Dev C++
-- Operating System Environment: Windows / Linux
-- Version Control: Git and GitHub
+The programs are written in C and C++ and compiled with GCC. I used Git and GitHub to keep the lab work organized.
 
-Objective
+## What I learned
 
-The objective of this work is to:
-- Understand the working of operating system components
-- Implement scheduling and memory management algorithms
-- Gain practical experience in system-level programming
-- Maintain structured and version-controlled lab work
-
-Author
-Ramsha Arooj  
-BSIT Student
-This repository is intended for academic and learning purposes only.
+- How the main parts of an operating system work together
+- How scheduling and memory management algorithms are actually implemented
+- How to write system level programs and test them
+- How to keep my lab work organized with version control
